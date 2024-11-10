@@ -14,7 +14,7 @@
         /* *********************/
         
         #inicio {
-            background: linear-gradient( rgba(0, 1, 1, .7), rgba(0, 1, 1, .7)), url("img/fondo2.jpg");
+            background: linear-gradient( rgba(0, 1, 1, .7), rgba(0, 1, 1, .7)), url("fondo2.jpg");
             background-size: cover;
             background-position: center center;
             height: 100vh;
